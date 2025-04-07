@@ -1,6 +1,6 @@
 # Coursera GitHub Assignment  
 
-This repository is created as part of the Coursera GitHub assignment. It contains essential files required for submission, including a LICENSE file, a Code of Conduct, Contribution Guidelines, and a smple Bash script to calculate simple interest.  
+This repository is created as part of the Coursera GitHub assignment. It contains essential files required for submission, including a LICENSE file, a Code of Conduct, Contribution Guidelines, and a simple Bash script to calculate simple interest.  
 
 Project Structure  
 - `LICENSE` - Apache 2.0 License for this project.  
